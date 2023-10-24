@@ -1,6 +1,6 @@
 # Introduction
 
-Paper: Deep Learning Approach for Deduction of 3D Flexible Transformation and Correction Data Based on Perceptual Data Under Incomplete Sensor Data.
+Paper: Deduction Model for 3D Flexible Transformation and Missing Data Under Incomplete Sensor Data.
 
 # Tree View
 
@@ -12,3 +12,4 @@ Paper: Deep Learning Approach for Deduction of 3D Flexible Transformation and Co
 | 4    | main_statistics.py       | Statistical related main program.                            |
 | 5    | main_train.py            | The main program of network training.                        |
 | 6    | main_visualizaton.py     | Visualization related main program.                          |
+
